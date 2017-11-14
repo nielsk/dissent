@@ -1,4 +1,4 @@
-# Archetypes
+= Archetypes
 
 Those will become the playbooks
 
@@ -9,4 +9,3 @@ Those will become the playbooks
 * a driver?
 * a runner?
 * journalist
-*
